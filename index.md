@@ -4,9 +4,14 @@ title: Home
 
 # Development and evolution of complex motor skills
 
-Complex, learned motor skills involve the coordination of activity across multiple neural types and brain regions. How do such interconnected neural circuits co-develop? And what can these developmental mechanisms tell us about the evolution of neural circuits and the behaviors they support?
+To understand the development and evolution of behavioral complexity, we study the mechanisms that drive the diversification of neurons and neural circuits in birds.
 
-Birdsong is controlled by a dedicated set of interconnected brain regions that is highly distinct from nearby sensorimotor regions, providing an excellent system to understand the molecular mechanisms that support neural circuit diversification. The lab uses cell-resolved molecular assays, spatial transcriptomics, and gene manipulations in songbirds to study these mechanisms.
+We focus on the neural circuitry that is dedicated to the production and learning of birdsong, a complex sensorimotor behavior.
+
+Our lab combines advanced molecular assays, imaging, and quantitative analysis of birdsong to understand:
+- the gene regulatory networks that build birdsong neural circuitry during development
+- how these networks intersect with experience during birdsong learning
+-how modifications to these networks contributed to the evolution of birdsong and other complex learned behaviors.
 {:.center}
 
 {% include section.html full=true %}
