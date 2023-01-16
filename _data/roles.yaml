@@ -15,7 +15,7 @@ undergrad:
   text: Undergraduate Student
 
 tech:
-  icon: fas fa-user-code
+  icon: fas fa-flask
   text: Research Technician
 
 programmer:
