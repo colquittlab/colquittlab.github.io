@@ -1,0 +1,28 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
+# See https://github.com/greenelab/lab-website-template/wiki/Citations
+
+- id: doi:10.1101/2022.12.13.520194
+  title: Neural circuit-wide analysis of gene expression during deafening-induced
+    destabilization of birdsong
+  authors:
+  - Bradley M. Colquitt
+  - Kelly Li
+  - Foad Green
+  - Robert Veline
+  - Michael S. Brainard
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-12-14'
+  link: https://doi.org/grm8wh
+  extra-links:
+  - type: preprint
+    link: https://www.biorxiv.org/content/10.1101/2022.12.13.520194v1
+  _cache: 6ac6afac8732df0c4aca0dd5c1759d791a20c0b43ee68a59775553102d3f0145
+- id: doi:10.1159/000525019
+  title: Organizational Conservation and Flexibility in the Evolution of Birdsong
+    and Avian Motor Control
+  authors:
+  - Bradley M. Colquitt
+  publisher: Brain, Behavior and Evolution
+  date: '2022-01-01'
+  link: https://doi.org/grm8wj
+  _cache: eb9461ab2b3d5739e1b9fb1a6c8bb6e2585bb651140d11e8cae8bb10fba53e76
