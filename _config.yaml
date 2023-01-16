@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: Colquitt Lab
 description: Colquitt Lab at UC Santa Cruz
-logo: images/logo.svg
+#logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: ""
