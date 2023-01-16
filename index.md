@@ -8,11 +8,7 @@ To understand the development and evolution of behavioral complexity, we study t
 
 We focus on the neural circuitry that is dedicated to the production and learning of birdsong, a complex sensorimotor behavior.
 
-Our lab combines advanced molecular assays, imaging, and quantitative analysis of birdsong to understand:
-- the gene regulatory networks that build birdsong neural circuitry during development
-- how these networks intersect with experience during birdsong learning
--how modifications to these networks contributed to the evolution of birdsong and other complex learned behaviors.
-{:.center}
+
 
 {% include section.html full=true %}
 
@@ -23,9 +19,10 @@ Our lab combines advanced molecular assays, imaging, and quantitative analysis o
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+Our lab combines advanced molecular assays, imaging, and quantitative analysis of birdsong to understand:
+- the gene regulatory networks that build birdsong neural circuitry during development
+- how these networks intersect with experience during birdsong learning
+- how modifications to these networks contributed to the evolution of birdsong and other complex learned behaviors.
 {%
   include link.html
   link="research"
@@ -38,7 +35,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/song-system.svg"
   link="research"
   title="Our Research"
   text=text
