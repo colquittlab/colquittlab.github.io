@@ -1,0 +1,69 @@
+(undo-tree-save-format-version . 1)
+"ca13f1c838276eeeedae7f0551dedb83004ad13f"
+[nil nil nil nil (25541 50553 380611 685000) 0 nil]
+([nil nil ((787 . 788) (t 25541 44677 559611 166000)) nil (25541 50553 380609 71000) 0 nil])
+([nil nil ((788 . 1460)) nil (25541 50553 380607 414000) 0 nil])
+([nil nil (("Complex, learned motor skills involve the coordination of activity across multiple neural types and brain regions. How do such interconnected neural circuits co-develop? And what can these developmental mechanisms tell us about the evolution of neural circuits and the behaviors they support?
+
+Birdsong is controlled by a dedicated set of interconnected brain regions that is highly distinct from nearby sensorimotor regions, providing an excellent system to understand the molecular mechanisms that support neural circuit diversification. The lab uses cell-resolved molecular assays, spatial transcriptomics, and gene manipulations in songbirds to study these mechanisms." . 114) (undo-tree-id65 . -672) (undo-tree-id66 . -672) (undo-tree-id67 . -672) (undo-tree-id68 . -672) 786) nil (25541 50553 380604 798000) 0 nil])
+([nil nil (("
+" . -114) (undo-tree-id63 . -1) ("
+" . -115) (undo-tree-id64 . -1) 116) nil (25541 50553 380592 786000) 0 nil])
+([nil nil ((786 . 788)) nil (25541 50553 380588 277000) 0 nil])
+([nil nil ((788 . 1296)) nil (25541 50553 380587 131000) 0 nil])
+([nil nil (("{% capture text %}
+" . 788)) nil (25541 50553 380585 878000) 0 nil])
+([nil nil ((113 . 114)) nil (25541 50553 380584 659000) 0 nil])
+([nil nil ((114 . 133)) nil (25541 50553 380583 307000) 0 nil])
+([nil nil (("
+" . -132) (undo-tree-id62 . -1) 133) nil (25541 50553 380581 530000) 0 nil])
+([nil nil (("{%
+  include link.html
+  link=\"research\"
+  text=\"See what we're working on\"
+  icon=\"fas fa-arrow-right\"
+  flip=true
+%}" . 1040) (undo-tree-id60 . -118) (undo-tree-id61 . -118) 1158) nil (25541 50553 380577 853000) 0 nil])
+([nil nil (("
+" . -1039) (undo-tree-id56 . -1) (undo-tree-id57 . -1) (undo-tree-id58 . -1) ("
+" . -1040) (undo-tree-id59 . -1) 1041) nil (25541 50553 380572 744000) 0 nil])
+([nil nil (("p" . -1110) (undo-tree-id51 . -1) ("h" . -1111) (undo-tree-id52 . -1) ("o" . -1112) (undo-tree-id53 . -1) ("t" . -1113) (undo-tree-id54 . -1) ("o" . -1114) (undo-tree-id55 . -1) 1115) nil (25541 50553 380564 456000) 0 nil])
+([nil nil ((1110 . 1117)) nil (25541 50553 380555 910000) 0 nil])
+([nil nil ((1117 . 1125)) nil (25541 50553 380554 561000) 0 nil])
+([nil nil ((1125 . 1128)) nil (25541 50553 380553 300000) 0 nil])
+([nil nil (("j" . -1129) (undo-tree-id48 . -1) ("p" . -1130) (undo-tree-id49 . -1) ("g" . -1131) (undo-tree-id50 . -1) 1132) nil (25541 50553 380550 499000) 0 nil])
+([nil nil ((1129 . 1132)) nil (25541 50553 380543 757000) 0 nil])
+([nil nil (("p" . -1129) (undo-tree-id45 . -1) ("n" . -1130) (undo-tree-id46 . -1) ("g" . -1131) (undo-tree-id47 . -1) 1132) nil (25541 50553 380540 984000) 0 nil])
+([nil nil ((1129 . 1132)) nil (25541 50553 380535 447000) 0 nil])
+([nil nil (("r" . -1142) (undo-tree-id37 . -1) ("e" . -1143) (undo-tree-id38 . -1) ("s" . -1144) (undo-tree-id39 . -1) ("e" . -1145) (undo-tree-id40 . -1) ("a" . -1146) (undo-tree-id41 . -1) ("r" . -1147) (undo-tree-id42 . -1) ("c" . -1148) (undo-tree-id43 . -1) ("h" . -1149) (undo-tree-id44 . -1) 1150) nil (25541 50553 380531 519000) 0 nil])
+([nil nil ((" link=\"\"" . 1135)) nil (25541 50553 380516 522000) 0 nil])
+([nil nil (("
+" . -1133) (undo-tree-id35 . -1) (" " . -1134) (undo-tree-id36 . -1) 1135) nil (25541 50553 380513 937000) 0 nil])
+([nil nil (("u" . -1144) (undo-tree-id24 . -1) ("r" . -1145) (undo-tree-id25 . -1) (" " . -1146) (undo-tree-id26 . -1) ("R" . -1147) (undo-tree-id27 . -1) ("e" . -1148) (undo-tree-id28 . -1) ("s" . -1149) (undo-tree-id29 . -1) ("e" . -1150) (undo-tree-id30 . -1) ("a" . -1151) (undo-tree-id31 . -1) ("r" . -1152) (undo-tree-id32 . -1) ("c" . -1153) (undo-tree-id33 . -1) ("h" . -1154) (undo-tree-id34 . -1) 1155) nil (25541 50553 380505 939000) 0 nil])
+([nil nil (("O" . -1143) (undo-tree-id23 . -1) 1144) nil (25541 50553 380487 955000) 0 nil])
+([nil nil ((1143 . 1148)) nil (25541 50553 380482 537000) 0 nil])
+([nil nil (("o" . -1147) (undo-tree-id22 . -1) 1148) nil (25541 50553 380480 610000) 0 nil])
+([nil nil ((1147 . 1153)) nil (25541 50553 380476 989000) 0 nil])
+([nil nil (("c" . -1152) (undo-tree-id21 . -1) 1153) nil (25541 50553 380475 15000) 0 nil])
+([nil nil ((1152 . 1173)) nil (25541 50553 380472 186000) 0 nil])
+([nil nil ((1173 . 1174)) nil (25541 50553 380470 697000) 0 nil])
+([nil nil (("c" . -1168) (undo-tree-id9 . -1) (undo-tree-id10 . -1) ("t" . -1169) (undo-tree-id11 . -1) (undo-tree-id12 . -1) ("i" . -1170) (undo-tree-id13 . -1) (undo-tree-id14 . -1) ("o" . -1171) (undo-tree-id15 . -1) (undo-tree-id16 . -1) ("n" . -1172) (undo-tree-id17 . -1) (undo-tree-id18 . -1) (" " . -1173) (undo-tree-id19 . -1) (undo-tree-id20 . -1) 1174) nil (25541 50553 380467 14000) 0 nil])
+([nil nil ((1168 . 1171)) nil (25541 50553 380448 116000) 0 nil])
+([nil nil (("a" . -1167) (undo-tree-id1 . -1) (undo-tree-id2 . -1) ("c" . -1168) (undo-tree-id3 . -1) (undo-tree-id4 . -1) ("a" . -1169) (undo-tree-id5 . -1) (undo-tree-id6 . -1) ("t" . -1170) (undo-tree-id7 . -1) (undo-tree-id8 . -1) 1171) nil (25541 50553 380444 278000) 0 nil])
+([nil nil ((1167 . 1174)) nil (25541 50553 380425 832000) 0 nil])
+([nil nil ((" " . -1173) (undo-tree-id0 . -1) 1174) nil (25541 50553 380417 547000) 0 nil])
+([nil nil (("s" . -83) (undo-tree-id81 . -1) (" " . -84) (undo-tree-id82 . -1) ("f" . -85) (undo-tree-id83 . -1) ("a" . -86) (undo-tree-id84 . -1) ("-" . -87) (undo-tree-id85 . -1) ("m" . -88) (undo-tree-id86 . -1) ("i" . -89) (undo-tree-id87 . -1) ("c" . -90) (undo-tree-id88 . -1) ("r" . -91) (undo-tree-id89 . -1) ("o" . -92) (undo-tree-id90 . -1) ("s" . -93) (undo-tree-id91 . -1) ("c" . -94) (undo-tree-id92 . -1) ("o" . -95) (undo-tree-id93 . -1) ("p" . -96) (undo-tree-id94 . -1) ("e" . -97) (undo-tree-id95 . -1) ("\"" . -98) (undo-tree-id96 . -1) (">" . -99) (undo-tree-id97 . -1) ("<" . -100) (undo-tree-id98 . -1) ("/" . -101) (undo-tree-id99 . -1) ("i" . -102) (undo-tree-id100 . -1) (">" . -103) (undo-tree-id101 . -1) 104 (t 25541 50553 408561 24000)) nil (25541 50573 459161 739000) 0 nil])
+([nil nil (("<" . -71) (undo-tree-id69 . -1) ("i" . -72) (undo-tree-id70 . -1) (" " . -73) (undo-tree-id71 . -1) ("c" . -74) (undo-tree-id72 . -1) ("l" . -75) (undo-tree-id73 . -1) ("a" . -76) (undo-tree-id74 . -1) ("s" . -77) (undo-tree-id75 . -1) ("s" . -78) (undo-tree-id76 . -1) ("=" . -79) (undo-tree-id77 . -1) ("\"" . -80) (undo-tree-id78 . -1) ("f" . -81) (undo-tree-id79 . -1) ("a" . -82) (undo-tree-id80 . -1) 83) nil (25541 50573 459112 912000) 0 nil])
+([nil nil (("P" . -48) (undo-tree-id108 . -1) ("u" . -49) (undo-tree-id109 . -1) ("b" . -50) (undo-tree-id110 . -1) ("l" . -51) (undo-tree-id111 . -1) ("i" . -52) (undo-tree-id112 . -1) ("s" . -53) (undo-tree-id113 . -1) ("h" . -54) (undo-tree-id114 . -1) ("e" . -55) (undo-tree-id115 . -1) ("d" . -56) (undo-tree-id116 . -1) (" " . -57) (undo-tree-id117 . -1) ("w" . -58) (undo-tree-id118 . -1) ("o" . -59) (undo-tree-id119 . -1) ("r" . -60) (undo-tree-id120 . -1) ("k" . -61) (undo-tree-id121 . -1) ("s" . -62) (undo-tree-id122 . -1) 63 (t 25541 50573 472222 143000)) nil (25541 50588 338359 188000) 0 nil])
+([nil nil ((48 . 55)) nil (25541 50588 338334 470000) 0 nil])
+([nil nil (("a" . -54) (undo-tree-id106 . -1) (undo-tree-id107 . -1) 55) nil (25541 50588 338331 851000) 0 nil])
+([nil nil ((54 . 59)) nil (25541 50588 338250 779000) 0 nil])
+([nil nil (("a" . -56) (undo-tree-id103 . -1) ("d" . -57) (undo-tree-id104 . -1) ("f" . -58) (undo-tree-id105 . -1) 59) nil (25541 50588 338247 170000) 0 nil])
+([nil nil ((56 . 57)) nil (25541 50588 338237 405000) 0 nil])
+([nil nil ((" " . -56) (undo-tree-id102 . -1) 57) nil (25541 50588 338229 55000) 0 nil])
+([nil nil (("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat." . 767) (undo-tree-id133 . -231) (undo-tree-id134 . -231) 998 (t 25541 50588 347970 888000)) nil (25541 50602 575675 866000) 0 nil])
+([nil current (("
+" . -765) (undo-tree-id123 . -1) (undo-tree-id124 . -1) (undo-tree-id125 . -1) (undo-tree-id126 . -1) (undo-tree-id127 . -1) ("
+" . -766) (undo-tree-id128 . -1) (undo-tree-id129 . -1) (undo-tree-id130 . -1) (undo-tree-id131 . -1) (undo-tree-id132 . -1) 767) nil (25541 50602 575663 378000) 0 nil])
+nil
