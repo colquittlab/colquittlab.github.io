@@ -7,7 +7,6 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-The Colquitt Lab opened in August of 2022, and we're excited to build a team diverse and stellar researchers.
 {% include section.html %}
 
 {%
@@ -16,18 +15,35 @@ data="members"
 component="portrait"
 filters="role: pi"
 %}
+
 {%
 include list.html
 data="members"
 component="portrait"
 filters="role: phd"
 %}
+
 {%
 include list.html
 data="members"
 component="portrait"
 filters="role: programmer"
 %}
+
+{%
+include list.html
+data="members"
+component="portrait"
+filters="role: tech"
+%}
+
+{%
+include list.html
+data="members"
+component="portrait"
+filters="role: undergrad"
+%}
+
 {:.center}
 
 {% include section.html background="images/2-28-20-UCSC-Arial-SLM.jpg" dark=true%}

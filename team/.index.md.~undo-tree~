@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"6c15e7c06e0771fb09fc7a13dbf24e2dc51e3a2c"
+"dfc34fec38b804710f623356539dcd14d43c52ff"
 [nil nil nil nil (25541 53276 579884 699000) 0 nil]
 ([nil nil ((546 . 547) (t 25541 44677 559611 166000)) nil (25541 53276 579881 768000) 0 nil])
 ([nil nil ((547 . 656)) nil (25541 53276 579879 216000) 0 nil])
@@ -65,5 +65,27 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 ([nil nil (("{:.center}
 " . 1748) (undo-tree-id38 . 11) (undo-tree-id39 . -1) (undo-tree-id40 . 10) (undo-tree-id41 . -9) (undo-tree-id42 . 2) (undo-tree-id43 . -10) (undo-tree-id44 . -11)) nil (25541 55401 867188 597000) 0 nil])
 ([nil nil ((1748 . 1759)) nil (25541 55401 867166 254000) 0 nil])
-([nil current ((2218 . 2229)) nil (25541 55401 867159 8000) 0 nil])
+([nil nil ((2218 . 2229)) nil (25541 55401 867159 8000) 0 nil])
+([nil nil ((317 . 318) (t 25541 55401 921045 822000)) nil (25541 55845 511284 216000) 0 nil])
+([nil nil (("The Colquitt Lab opened in August of 2022, and we're excited to build a team diverse and stellar researchers.
+" . 100)) nil (25541 55845 511275 757000) 0 nil])
+([nil nil ((288 . 289) (t 25541 55845 515152 676000)) nil (25541 55885 752721 227000) 0 nil])
+([nil nil ((375 . 377)) nil (25541 55885 752719 654000) 0 nil])
+([nil nil ((377 . 463)) nil (25541 55885 752718 577000) 0 nil])
+([nil nil ((463 . 464)) nil (25541 55885 752717 217000) 0 nil])
+([nil nil (("p" . -449) (undo-tree-id73 . -1) ("r" . -450) (undo-tree-id74 . -1) ("o" . -451) (undo-tree-id75 . -1) ("g" . -452) (undo-tree-id76 . -1) ("r" . -453) (undo-tree-id77 . -1) ("a" . -454) (undo-tree-id78 . -1) ("m" . -455) (undo-tree-id79 . -1) ("m" . -456) (undo-tree-id80 . -1) ("e" . -457) (undo-tree-id81 . -1) ("r" . -458) (undo-tree-id82 . -1) 459) nil (25541 55885 752713 120000) 0 nil])
+([nil nil ((449 . 452)) nil (25541 55885 752697 822000) 0 nil])
+([nil nil (("a" . -449) (undo-tree-id70 . -1) ("d" . -450) (undo-tree-id71 . -1) ("f" . -451) (undo-tree-id72 . -1) 452) nil (25541 55885 752695 467000) 0 nil])
+([nil nil ((449 . 453)) nil (25541 55885 752689 923000) 0 nil])
+([nil nil (("{%
+include list.html
+data=\"members\"
+component=\"portrait\"
+filters=\"role: tech\"
+%}" . 377) (undo-tree-id68 . -80) (undo-tree-id69 . -80) 457) nil (25541 55885 752688 115000) 0 nil])
+([nil nil ((377 . 457)) nil (25541 55885 752683 795000) 0 nil])
+([nil nil ((457 . 459)) nil (25541 55885 752682 528000) 0 nil])
+([nil nil ((459 . 539)) nil (25541 55885 752681 71000) 0 nil])
+([nil nil (("t" . -531) (undo-tree-id64 . -1) ("e" . -532) (undo-tree-id65 . -1) ("c" . -533) (undo-tree-id66 . -1) ("h" . -534) (undo-tree-id67 . -1) 535) nil (25541 55885 752676 596000) 0 nil])
+([nil current ((531 . 540)) nil (25541 55885 752648 449000) 0 nil])
 nil
