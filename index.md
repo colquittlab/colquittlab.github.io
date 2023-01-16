@@ -35,7 +35,7 @@ Our lab combines advanced molecular assays, imaging, and quantitative analysis o
 
 {%
   include feature.html
-  image="images/song-system.svg"
+  image="images/banner_image_1280.png"
   link="research"
   title="Our Research"
   text=text
