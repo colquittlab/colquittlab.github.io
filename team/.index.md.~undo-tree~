@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"dfc34fec38b804710f623356539dcd14d43c52ff"
+"2f63b6b2c13777c69fe2b9239f339bcaa843892a"
 [nil nil nil nil (25541 53276 579884 699000) 0 nil]
 ([nil nil ((546 . 547) (t 25541 44677 559611 166000)) nil (25541 53276 579881 768000) 0 nil])
 ([nil nil ((547 . 656)) nil (25541 53276 579879 216000) 0 nil])
@@ -87,5 +87,49 @@ filters=\"role: tech\"
 ([nil nil ((457 . 459)) nil (25541 55885 752682 528000) 0 nil])
 ([nil nil ((459 . 539)) nil (25541 55885 752681 71000) 0 nil])
 ([nil nil (("t" . -531) (undo-tree-id64 . -1) ("e" . -532) (undo-tree-id65 . -1) ("c" . -533) (undo-tree-id66 . -1) ("h" . -534) (undo-tree-id67 . -1) 535) nil (25541 55885 752676 596000) 0 nil])
-([nil current ((531 . 540)) nil (25541 55885 752648 449000) 0 nil])
+([nil nil ((531 . 540)) nil (25541 55885 752648 449000) 0 nil])
+([nil nil (("{:.center}
+" . 2280) (t 25541 55885 774777 482000)) nil (25541 57536 174356 143000) 0 nil])
+([nil nil (("{:.center}
+" . 2047)) nil (25541 57536 174354 539000) 0 nil])
+([nil nil (("{:.center}
+" . 1810)) nil (25541 57536 174352 946000) 0 nil])
+([nil nil (("## Funding
+
+Our work is made possible by funding from several organizations.
+{:.center}
+
+{%
+  include gallery.html
+  style=\"square\"
+
+  image1=\"images/photo.jpg\"
+  link1=\"https://nasa.gov/\"
+  tooltip1=\"Cool Foundation\"
+
+  image2=\"images/photo.jpg\"
+  link2=\"https://nasa.gov/\"
+  tooltip2=\"Cool Institute\"
+
+  image3=\"images/photo.jpg\"
+  link3=\"https://nasa.gov/\"
+  tooltip3=\"Cool Initiative\"
+
+  image4=\"images/photo.jpg\"
+  link4=\"https://nasa.gov/\"
+  tooltip4=\"Cool Foundation\"
+
+  image5=\"images/photo.jpg\"
+  link5=\"https://nasa.gov/\"
+  tooltip5=\"Cool Institute\"
+
+  image6=\"images/photo.jpg\"
+  link6=\"https://nasa.gov/\"
+  tooltip6=\"Cool Initiative\"
+%}
+" . 2287) (undo-tree-id119 . -649) (undo-tree-id120 . -390) (undo-tree-id121 . -649) 2936) nil (25541 57536 174350 990000) 0 nil])
+([nil nil (("
+" . -2285) (undo-tree-id112 . -1) (undo-tree-id113 . -1) (undo-tree-id114 . -1) (undo-tree-id115 . -1) ("
+" . -2286) (undo-tree-id116 . -1) (undo-tree-id117 . -1) (undo-tree-id118 . -1) 2287) nil (25541 57536 174339 817000) 0 nil])
+([nil current (("{% include section.html %}" . 2259) (undo-tree-id83 . -26) (undo-tree-id84 . -11) (undo-tree-id85 . -26) (undo-tree-id86 . -26) (undo-tree-id87 . -26) (undo-tree-id88 . -26) (undo-tree-id89 . -25) (undo-tree-id90 . -26) (undo-tree-id91 . -25) (undo-tree-id92 . -26) (undo-tree-id93 . -25) (undo-tree-id94 . -26) (undo-tree-id95 . -25) (undo-tree-id96 . -26) (undo-tree-id97 . -25) (undo-tree-id98 . -26) (undo-tree-id99 . -25) (undo-tree-id100 . -26) (undo-tree-id101 . -1) (undo-tree-id102 . -26) (undo-tree-id103 . -26) (undo-tree-id104 . -26) (undo-tree-id105 . 26) (undo-tree-id106 . -1) (undo-tree-id107 . 25) (undo-tree-id108 . -25) (undo-tree-id109 . 1) (undo-tree-id110 . -26) (undo-tree-id111 . -26)) nil (25541 57536 174322 50000) 0 nil])
 nil
