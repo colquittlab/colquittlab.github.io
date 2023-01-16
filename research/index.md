@@ -15,14 +15,15 @@ Birdsong is controlled by a dedicated set of interconnected brain regions that i
 
 {% endcapture %}
 
+{% capture image %}
 {%
-  include feature.html
+  include figure.html
   image="images/diversification_v1.svg"
   title="Neural circuit diversification"
-  text=text
 %}
+{% endcapture %}
 
-{% include two-col.html col1="images/diversification_v1.svg" col2=text %}
+{% include two-col.html col1=image col2=text %}
 
 {% include section.html %}
 
