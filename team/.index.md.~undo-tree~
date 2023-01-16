@@ -1,0 +1,15 @@
+(undo-tree-save-format-version . 1)
+"7248214a8ff4dcbc03d53b70fff6b1ac15260fd8"
+[nil nil nil nil (25541 53276 579884 699000) 0 nil]
+([nil nil ((546 . 547) (t 25541 44677 559611 166000)) nil (25541 53276 579881 768000) 0 nil])
+([nil nil ((547 . 656)) nil (25541 53276 579879 216000) 0 nil])
+([nil nil (("Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." . 224) (undo-tree-id16 . -321) (undo-tree-id17 . -321) 545) nil (25541 53276 579876 905000) 0 nil])
+([nil nil (("
+" . -224) (undo-tree-id12 . -1) (undo-tree-id13 . -1) ("
+" . -225) (undo-tree-id14 . -1) (undo-tree-id15 . -1) 226) nil (25541 53276 579869 868000) 0 nil])
+([nil nil (("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." . 100) (undo-tree-id8 . -123) (undo-tree-id9 . -103) (undo-tree-id10 . -123) (undo-tree-id11 . -123) 223) nil (25541 53276 579858 912000) 0 nil])
+([nil current (("
+" . -99) (undo-tree-id0 . -1) (undo-tree-id1 . -1) (undo-tree-id2 . -1) (undo-tree-id3 . -1) (undo-tree-id4 . -1) (undo-tree-id5 . -1) (undo-tree-id6 . -1) (undo-tree-id7 . -1) 100) nil (25541 53276 579842 409000) 0 nil])
+nil
