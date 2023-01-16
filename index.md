@@ -9,9 +9,9 @@ Complex, learned motor skills involve the coordination of activity across multip
 
 Birdsong is controlled by a dedicated set of interconnected brain regions that is highly distinct from nearby sensorimotor regions, providing an excellent system to understand the molecular mechanisms that support neural circuit diversification. The lab uses cell-resolved molecular assays, spatial transcriptomics, and gene manipulations in songbirds to study these mechanisms.
 
-{% endcapture %}
 
 {:.center}
+{% endcapture %}
 
 {% include section.html full=true %}
 
@@ -28,7 +28,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {%
   include link.html
   link="research"
-  text="See what we've published"
+  text="See what we're working on"
   icon="fas fa-arrow-right"
   flip=true
 %}
