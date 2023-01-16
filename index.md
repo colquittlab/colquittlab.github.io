@@ -4,15 +4,15 @@ title: Home
 
 # Development and evolution of complex motor skills
 
-**To understand the development and evolution of behavioral complexity, we study the mechanisms that drive the diversification of neurons and neural circuits in birds.**
+#### To understand the development and evolution of behavioral complexity, we study the mechanisms that drive the diversification of neurons and neural circuits in birds.
 
-**We focus on the neural circuitry that is dedicated to the production and learning of birdsong, a complex sensorimotor behavior.**
+#### We focus on the neural circuitry that is dedicated to the production and learning of birdsong, a complex sensorimotor behavior.
 
 
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner_image_1280.png" %}
+#{% include banner.html image="images/banner_image_1280.png" %}
 
 {% include section.html %}
 
