@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"7248214a8ff4dcbc03d53b70fff6b1ac15260fd8"
+"c952361fe338a14f472de8fc61222016eba5525e"
 [nil nil nil nil (25541 53276 579884 699000) 0 nil]
 ([nil nil ((546 . 547) (t 25541 44677 559611 166000)) nil (25541 53276 579881 768000) 0 nil])
 ([nil nil ((547 . 656)) nil (25541 53276 579879 216000) 0 nil])
@@ -10,6 +10,20 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 " . -224) (undo-tree-id12 . -1) (undo-tree-id13 . -1) ("
 " . -225) (undo-tree-id14 . -1) (undo-tree-id15 . -1) 226) nil (25541 53276 579869 868000) 0 nil])
 ([nil nil (("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." . 100) (undo-tree-id8 . -123) (undo-tree-id9 . -103) (undo-tree-id10 . -123) (undo-tree-id11 . -123) 223) nil (25541 53276 579858 912000) 0 nil])
-([nil current (("
+([nil nil (("
 " . -99) (undo-tree-id0 . -1) (undo-tree-id1 . -1) (undo-tree-id2 . -1) (undo-tree-id3 . -1) (undo-tree-id4 . -1) (undo-tree-id5 . -1) (undo-tree-id6 . -1) (undo-tree-id7 . -1) 100) nil (25541 53276 579842 409000) 0 nil])
+([nil nil (("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+" . 588) (undo-tree-id28 . -232) (undo-tree-id29 . -232) (undo-tree-id30 . -232) 820 (t 25541 53276 587276 808000)) nil (25541 55012 941033 781000) 0 nil])
+([nil nil (("
+" . -586) (undo-tree-id18 . -1) (undo-tree-id19 . -1) (undo-tree-id20 . -1) (undo-tree-id21 . -1) (undo-tree-id22 . -1) ("
+" . -587) (undo-tree-id23 . -1) (undo-tree-id24 . -1) (undo-tree-id25 . -1) (undo-tree-id26 . -1) (undo-tree-id27 . -1) 588) nil (25541 55012 941022 557000) 0 nil])
+([nil nil ((520 . 521)) nil (25541 55012 940964 145000) 0 nil])
+([nil nil ((587 . 589) (t 25541 55012 947285 162000)) nil (25541 55250 675240 837000) 0 nil])
+([nil nil ((589 . 1089)) nil (25541 55250 675238 985000) 0 nil])
+([nil nil ((1089 . 1090)) nil (25541 55250 675237 37000) 0 nil])
+([nil nil (("#" . -520) (undo-tree-id37 . -1) 521) nil (25541 55250 675234 981000) 0 nil])
+([nil nil (("b" . -563) (undo-tree-id31 . -1) ("a" . -564) (undo-tree-id32 . -1) ("n" . -565) (undo-tree-id33 . -1) ("n" . -566) (undo-tree-id34 . -1) ("e" . -567) (undo-tree-id35 . -1) ("r" . -568) (undo-tree-id36 . -1) 569) nil (25541 55250 675228 666000) 0 nil])
+([nil nil (("  " . -454) ("  " . -433) ("  " . -418) ("  " . -400) ("  " . -374) ("  " . -353) ("  " . -338) ("  " . -320) ("  " . -295) ("  " . -274) ("  " . -259) ("  " . -241) (701 . 702) ("'" . 704) 580) nil (25541 55250 675193 902000) 0 nil])
+([nil current ((539 . 561)) nil (25541 55250 675178 70000) 0 nil])
 nil

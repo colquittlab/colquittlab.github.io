@@ -11,29 +11,30 @@ The Colquitt Lab opened in August of 2022, and we're excited to build a team div
 {% include section.html %}
 
 {%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi"
+include list.html
+data="members"
+component="portrait"
+filters="role: pi"
 %}
 {%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd"
+include list.html
+data="members"
+component="portrait"
+filters="role: phd"
 %}
 {%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: programmer"
+include list.html
+data="members"
+component="portrait"
+filters="role: programmer"
 %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
+{% include section.html background="images/2-28-20-UCSC-Arial-SLM.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab encompasses approaches and ideas from systems neuroscience, developmental biology, evolution, and genomics, and' were excited to build a diverse and collaborative team of researchers. We're actively recruiting at several levels and look forward to welcoming new members. Please contact Brad at colquitt@ucsc.edu for more information.
+
+We are located on the stunning UC Santa Cruz campus, embedded in a redwood forest on the northern end of the Monterey Bay, in the vibrant city of Santa Cruz.
 
 {% include section.html %}
 
