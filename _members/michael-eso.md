@@ -1,7 +1,7 @@
 ---
 name: Michael Eso
 description: Undergraduate Researcher
-image:Eso-Michael.jpg
+image: Eso-Michael.jpg
 role: undergrad
 aliases:
   - M. Eso
