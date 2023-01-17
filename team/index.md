@@ -64,7 +64,7 @@ Please email Brad a CV and a cover letter describing your research background, c
 
 #### Graduate students
 
-The lab is excited to welcome rotation students through the Graduate Training Program in Biomedical Sciences and Engineering at UCSC (https://pbse.ucsc.edu/). Please get in touch for more information.
+The lab is excited to welcome rotation students through the [Graduate Training Program in Biomedical Sciences and Engineering](https://pbse.ucsc.edu/) at UCSC. Please get in touch for more information.
 
 #### Undergraduate students
 
