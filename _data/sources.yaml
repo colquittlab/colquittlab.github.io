@@ -12,10 +12,10 @@
 - id: doi:10.1093/gigascience/giy008
   image: images/BF_pic.png
 
-- id: doi.org:10.1016/j.neuron.2014.07.013
+- id: doi:10.1016/j.neuron.2014.07.013
   image: images/neuron_dhs.svg
 
-- id: doi.org/10.1016/j.cell.2014.09.033
+- id: doi:10.1016/j.cell.2014.09.033
 
 - id: doi:10.1073/pnas.1302759110
 
