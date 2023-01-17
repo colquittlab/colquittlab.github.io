@@ -13,18 +13,18 @@ Our lab is part of the [Department of Molecular, Cell, and Developmental Biology
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="colquitt@ucsc.edu"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="colquitt@ucsc.edu"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
+  text="(831) 502-8427"
   tooltip=""
-  link="+1-555-867-5309"
+  link="+1-831-502-8427"
   style="button"
 %}
 {%
@@ -33,7 +33,7 @@ Our lab is part of the [Department of Molecular, Cell, and Developmental Biology
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://www.google.com/maps/place/Sinsheimer+Labs/@36.9987626,-122.0638584,17z/data=!3m1!4b1!4m5!3m4!1s0x808e41755745ad93:0xebe4c4f5c3d04beb!8m2!3d36.9987583!4d-122.0616697"
   style="button"
 %}
 {:.center}
@@ -42,9 +42,9 @@ Our lab is part of the [Department of Molecular, Cell, and Developmental Biology
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+1156 High St.
+Sinsheimer Labs 225
+Santa Cruz, CA 95064  
 {:.center}
 
 {% capture col1 %}
