@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Molecular, Cell, and Developmental Biology](mcd.ucsc.edu), at [UC Santa Cruz](www.ucsc.edu).
+Our lab is part of the [Department of Molecular, Cell, and Developmental Biology](https://mcd.ucsc.edu/), at [UC Santa Cruz](https://www.ucsc.edu).
 
 {%
   include link.html
