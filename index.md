@@ -16,7 +16,7 @@ title: Home
 
 #### To understand the development and evolution of behavioral complexity, we study the mechanisms that drive the diversification of neurons and neural circuits in birds.
 {:.center}
-#### We focus on the neural circuitry that is dedicated to the production and learning of birdsong, a spectacular complex behavior that is a powerful model for understanding the neural mechanisms of sensorimotor development.
+#### We focus on the neural circuitry that is dedicated to the production and learning of birdsong, a spectacularly complex behavior that is a powerful model for understanding the neural mechanisms of sensorimotor development.
 {:.center}
 
 # Highlights
