@@ -19,7 +19,7 @@ title: Home
 #### We focus on the neural circuitry that is dedicated to the production and learning of birdsong, a spectacularly complex behavior that is a powerful model for understanding the neural mechanisms of sensorimotor development.
 {:.center}
 
-# Highlights
+{% include section.html %}
 
 {% capture text %}
 Our lab combines advanced molecular techniques, bioinformatics, imaging, and behavioral analysis to understand:
