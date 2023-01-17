@@ -50,6 +50,8 @@ Sinsheimer Labs 225
 Santa Cruz, CA 95064  
 {:.center}
 
+#{% include banner.html image="images/2-28-20-UCSC-Arial-SLM.jpg" %}
+
 {% capture col1 %}
 {%
   include figure.html
@@ -60,7 +62,7 @@ Santa Cruz, CA 95064
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/2-28-20-UCSC-Arial-SLM.jpg"
   caption="Department of Metaphor"
 %}
 {% endcapture %}
