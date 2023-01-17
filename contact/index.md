@@ -9,6 +9,8 @@ nav:
 
 Our lab is part of the [Department of Molecular, Cell, and Developmental Biology](https://mcd.ucsc.edu/), at [UC Santa Cruz](https://www.ucsc.edu).
 
+{% include banner.html image="images/2-28-20-UCSC-Arial-SLM.jpg" %}
+
 {%
   include link.html
   type="email"
