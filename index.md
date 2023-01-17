@@ -7,7 +7,7 @@ title: Home
 {% include section.html %}
 
 {% include gallery.html
-   image1="images/song-system.svg"
+   image1="images/song-system.png"
    image2="images/song_learning_schematic.png"
    image3="images/science_all_cells_umap.png"
 %}
@@ -16,13 +16,13 @@ title: Home
 
 #### To understand the development and evolution of behavioral complexity, we study the mechanisms that drive the diversification of neurons and neural circuits in birds.
 {:.center}
-#### We focus on the neural circuitry that is dedicated to the production and learning of birdsong, a complex sensorimotor behavior.
+#### We focus on the neural circuitry that is dedicated to the production and learning of birdsong, a spectacular complex behavior that is a powerful model for understanding the neural mechanisms of sensorimotor development.
 {:.center}
 
 # Highlights
 
 {% capture text %}
-Our lab combines advanced molecular assays, imaging, and quantitative analysis of birdsong to understand:
+Our lab combines advanced molecular techniques, bioinformatics, imaging, and behavioral analysis to understand:
 - the gene regulatory networks that build birdsong neural circuitry during development
 - how these networks intersect with experience during birdsong learning
 - how modifications to these networks contributed to the evolution of birdsong and other complex learned behaviors.
