@@ -34,7 +34,7 @@ Vocal learning in humans and many songbirds features a sensitive (critical) peri
   image="images/tutoring_v5.svg"
   title="Influence of experience on sensorimotor circuit development"
   text=text
-  flip=True
+  flip=true
 %}
 
 
@@ -53,7 +53,7 @@ The lab studies the similarities and differences in the cellular composition, or
   text=text
 %}
 
-% include section.html %}
+{% include section.html %}
 
 {% include search-box.html %}
 

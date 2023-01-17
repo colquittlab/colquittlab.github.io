@@ -1,4 +1,5 @@
 - id: doi:10.1101/2022.12.13.520194
+  publisher: bioRxiv
   extra-links:
     - type: preprint
       link: https://www.biorxiv.org/content/10.1101/2022.12.13.520194v1
