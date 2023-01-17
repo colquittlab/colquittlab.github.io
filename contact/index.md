@@ -51,9 +51,9 @@ Santa Cruz, CA 95064
 {:.center}
 
 {% include section.html dark=true full=true %}
-#{% include banner.html image="images/2-28-20-UCSC-Arial-SLM.jpg" %}
+{% include banner.html image="images/2-28-20-UCSC-Arial-SLM.jpg" %}
 
 {%
   include figure.html
-  image="images/2021-Logo-Do-2.jpg"  
+  image="images/UCSC-white.png"  
 %}
