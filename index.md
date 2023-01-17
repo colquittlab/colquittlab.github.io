@@ -14,6 +14,12 @@ title: Home
 
 #{% include banner.html image="images/banner_image_1280.png" %}
 
+{% include gallery.html
+   style="square"
+   image1="images/song-system.svg"
+   image2="images/song_learning_schematic.png"
+   image3="images/science_all_cells_umap.png"
+%}
 {% include section.html %}
 
 # Highlights
