@@ -4,20 +4,14 @@ title: Home
 
 # Development and evolution of complex motor skills
 
-
-
-
-
-{% include section.html full=true %}
-
-#{% include banner.html image="images/banner_image_1280.png" %}
+{% include section.html %}
 
 {% include gallery.html
-   style="square"
    image1="images/song-system.svg"
    image2="images/song_learning_schematic.png"
    image3="images/science_all_cells_umap.png"
 %}
+
 {% include section.html %}
 
 #### To understand the development and evolution of behavioral complexity, we study the mechanisms that drive the diversification of neurons and neural circuits in birds.
