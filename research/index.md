@@ -7,6 +7,7 @@ nav:
 
 # Research
 
+{% include section.html full=true %}
 {% capture text %}
 Complex, learned motor skills involve the coordination of activity across multiple neural types and brain regions. How do such interconnected neural circuits co-develop? And what can these developmental mechanisms tell us about the evolution of neural circuits and the behaviors they support?
 
