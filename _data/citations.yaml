@@ -25,4 +25,93 @@
   publisher: Brain, Behavior and Evolution
   date: '2022-01-01'
   link: https://doi.org/grm8wj
-  _cache: eb9461ab2b3d5739e1b9fb1a6c8bb6e2585bb651140d11e8cae8bb10fba53e76
+  image: images/motor_evolution_short.svg
+  _cache: 0dc36bc34c1a3d4aeaefaa5b35cfd918a119c885ce80eb076ffd3c5872103435
+- id: doi:10.1126/science.abd9704
+  title: Cellular transcriptomics reveals evolutionary identities of songbird vocal
+    circuits
+  authors:
+  - Bradley M. Colquitt
+  - Devin P. Merullo
+  - Genevieve Konopka
+  - Todd F. Roberts
+  - Michael S. Brainard
+  publisher: Science
+  date: '2021-02-12'
+  link: https://doi.org/grndt4
+  image: images/science_summary.svg
+  _cache: c87f7ca0c3e726841cc19a917854084011c186e5ff55917554fc54c43910fdca
+- id: doi:10.1093/gigascience/giy008
+  title: Draft genome assembly of the Bengalese finch, Lonchura striata domestica,
+    a model for motor skill variability and learning
+  authors:
+  - Bradley M Colquitt
+  - David G Mets
+  - Michael S Brainard
+  publisher: GigaScience
+  date: '2018-02-15'
+  link: https://doi.org/grndt5
+  image: images/BF_pic.png
+  _cache: 05f575dd8688d3a955428a757d9e73dd1b5ea13286cc7040dd720503d65d0820
+- id: doi:10.1016/j.neuron.2014.07.013
+  title: Dnmt3a Regulates Global Gene Expression in Olfactory Sensory Neurons and
+    Enables Odorant-Induced Transcription
+  authors:
+  - "Bradley\_M. Colquitt"
+  - Eirene Markenscoff-Papadimitriou
+  - "Rachel Duffi\xE9"
+  - Stavros Lomvardas
+  publisher: Neuron
+  date: '2014-08-01'
+  link: https://doi.org/f6c799
+  image: images/neuron_dhs.svg
+  _cache: 3baefd4a0454474fccccd58ea3895dbae4897040df4be941cedde6f38ee1b3ca
+- id: doi:10.1016/j.cell.2014.09.033
+  title: Enhancer Interaction Networks as a Means for Singular Olfactory Receptor
+    Expression
+  authors:
+  - Eirene Markenscoff-Papadimitriou
+  - "William\_E. Allen"
+  - "Bradley\_M. Colquitt"
+  - Tracie Goh
+  - "Karl\_K. Murphy"
+  - Kevin Monahan
+  - "Colleen\_P. Mosley"
+  - Nadav Ahituv
+  - Stavros Lomvardas
+  publisher: Cell
+  date: '2014-10-01'
+  link: https://doi.org/f6pb7w
+  _cache: 3208b625a9d0e76c2c938568c3309ed3d61526b7032fc08b22ce1baa15101932
+- id: doi:10.1073/pnas.1302759110
+  title: Alteration of genic 5-hydroxymethylcytosine patterning in olfactory neurons
+    correlates with changes in gene expression and cell identity
+  authors:
+  - Bradley M. Colquitt
+  - William E. Allen
+  - Gilad Barnea
+  - Stavros Lomvardas
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2013-08-22'
+  link: https://doi.org/f48zm5
+  _cache: d5731b10624b8fb09e3b01813568a0f70bd48300b32f0671ec82b366f4c474ef
+- id: doi:10.1016/j.cell.2011.03.040
+  title: An Epigenetic Signature for Monoallelic Olfactory Receptor Expression
+  authors:
+  - Angeliki Magklara
+  - Angela Yen
+  - "Bradley\_M. Colquitt"
+  - "E.\_Josephine Clowney"
+  - William Allen
+  - Eirene Markenscoff-Papadimitriou
+  - "Zoe\_A. Evans"
+  - Pouya Kheradpour
+  - George Mountoufaris
+  - Catriona Carey
+  - Gilad Barnea
+  - Manolis Kellis
+  - Stavros Lomvardas
+  publisher: Cell
+  date: '2011-05-01'
+  link: https://doi.org/crnf2j
+  _cache: 3e81463c43c938a9f19edb6887a04cf82e05b0ce20f8e51904397d8a34c1fa84
