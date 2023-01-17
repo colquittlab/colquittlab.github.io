@@ -8,8 +8,9 @@ nav:
 # <i class="fas fa-envelope"></i>Contact
 
 Our lab is part of the [Department of Molecular, Cell, and Developmental Biology](https://mcd.ucsc.edu/), at [UC Santa Cruz](https://www.ucsc.edu).
+{:.center}
 
-{% include banner.html image="images/2-28-20-UCSC-Arial-SLM.jpg" %}
+{% include section.html background="images/2-28-20-UCSC-Arial-SLM.jpg" full=true %}
 
 {%
   include link.html
@@ -28,7 +29,7 @@ Our lab is part of the [Department of Molecular, Cell, and Developmental Biology
   tooltip=""
   link="+1-831-502-8427"
   style="button"
-%}
+ %}
 {%
   include link.html
   type="address"
@@ -52,8 +53,8 @@ Santa Cruz, CA 95064
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/2021-Logo-Do-2.jpg"
+  
 %}
 {% endcapture %}
 {% capture col2 %}
