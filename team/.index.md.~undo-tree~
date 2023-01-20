@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"7aca1c4a037d780794c1d59e7554329a0c67726b"
+"58f634adda30dbd0679d1bab0ec73fd69376327a"
 [nil nil nil nil (25541 53276 579884 699000) 0 nil]
 ([nil nil ((546 . 547) (t 25541 44677 559611 166000)) nil (25541 53276 579881 768000) 0 nil])
 ([nil nil ((547 . 656)) nil (25541 53276 579879 216000) 0 nil])
@@ -163,5 +163,14 @@ Our work is made possible by funding from several organizations.
 ([nil nil ((" " . -181) (undo-tree-id510 . -1) 182) nil (25546 8966 477268 100000) 0 nil])
 ([nil nil ((181 . 182)) nil (25546 8966 477228 570000) 0 nil])
 ([nil nil ((182 . 183)) nil (25546 8966 477225 882000) 0 nil])
-([nil current ((184 . 185)) nil (25546 8966 477218 156000) 0 nil])
+([nil nil ((184 . 185)) nil (25546 8966 477218 156000) 0 nil])
+([nil nil (("{% include figure.html
+image=images/lab_2301_1800.png
+%}" . 128) (undo-tree-id541 . -56) (undo-tree-id542 . -56) 184 (t 25546 8966 480730 635000)) nil (25546 9041 597075 125000) 0 nil])
+([nil nil ((1182 . 1183)) nil (25546 9041 597055 308000) 0 nil])
+([nil nil ((1183 . 1239)) nil (25546 9041 597052 380000) 0 nil])
+([nil nil ((1239 . 1240)) nil (25546 9041 597043 778000) 0 nil])
+([nil nil ((1212 . 1214) ("\"" . -1212) (undo-tree-id552 . -1) (undo-tree-id553 . -1) (1212 . 1213) (t 25546 9041 603487 516000)) nil (25546 9178 315997 585000) 0 nil])
+([nil nil (("\"" . -1213) (undo-tree-id543 . -1) (undo-tree-id544 . -1) (undo-tree-id545 . -1) (undo-tree-id546 . 1) (undo-tree-id547 . 1) (undo-tree-id548 . -1) (undo-tree-id549 . -1) (undo-tree-id550 . -1) (undo-tree-id551 . -1) 1214) nil (25546 9178 315989 769000) 0 nil])
+([nil current ((1237 . 1238)) nil (25546 9178 315958 425000) 0 nil])
 nil

@@ -9,9 +9,7 @@ nav:
 
 {% include section.html %}
 
-{% include figure.html
-image=images/lab_2301_1800.png
-%}
+
 
 {%
 include list.html
@@ -59,6 +57,10 @@ We are located on the stunning UC Santa Cruz campus, embedded in a redwood fores
 {% include section.html %}
 
 ## Join
+
+{% include figure.html
+image="images/lab_2301_1800.png"
+%}
 
 #### Postdoctoral Researcher
 
