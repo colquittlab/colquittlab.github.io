@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"58f634adda30dbd0679d1bab0ec73fd69376327a"
+"720b10c7104b9888dda2565090bd58274fbd8dfb"
 [nil nil nil nil (25541 53276 579884 699000) 0 nil]
 ([nil nil ((546 . 547) (t 25541 44677 559611 166000)) nil (25541 53276 579881 768000) 0 nil])
 ([nil nil ((547 . 656)) nil (25541 53276 579879 216000) 0 nil])
@@ -172,5 +172,7 @@ image=images/lab_2301_1800.png
 ([nil nil ((1239 . 1240)) nil (25546 9041 597043 778000) 0 nil])
 ([nil nil ((1212 . 1214) ("\"" . -1212) (undo-tree-id552 . -1) (undo-tree-id553 . -1) (1212 . 1213) (t 25546 9041 603487 516000)) nil (25546 9178 315997 585000) 0 nil])
 ([nil nil (("\"" . -1213) (undo-tree-id543 . -1) (undo-tree-id544 . -1) (undo-tree-id545 . -1) (undo-tree-id546 . 1) (undo-tree-id547 . 1) (undo-tree-id548 . -1) (undo-tree-id549 . -1) (undo-tree-id550 . -1) (undo-tree-id551 . -1) 1214) nil (25546 9178 315989 769000) 0 nil])
-([nil current ((1237 . 1238)) nil (25546 9178 315958 425000) 0 nil])
+([nil nil ((1237 . 1238)) nil (25546 9178 315958 425000) 0 nil])
+([nil nil (("1" . -1229) (undo-tree-id554 . -1) (undo-tree-id555 . -1) (undo-tree-id556 . -1) (undo-tree-id557 . -1) (undo-tree-id558 . -1) (undo-tree-id559 . -1) (undo-tree-id560 . -1) (undo-tree-id561 . -1) ("8" . -1230) (undo-tree-id562 . -1) (undo-tree-id563 . -1) (undo-tree-id564 . -1) (undo-tree-id565 . -1) (undo-tree-id566 . -1) (undo-tree-id567 . -1) (undo-tree-id568 . -1) (undo-tree-id569 . -1) ("0" . -1231) (undo-tree-id570 . -1) (undo-tree-id571 . -1) (undo-tree-id572 . -1) (undo-tree-id573 . -1) (undo-tree-id574 . -1) (undo-tree-id575 . -1) (undo-tree-id576 . -1) (undo-tree-id577 . -1) ("0" . -1232) (undo-tree-id578 . -1) 1233 (t 25546 9178 325225 56000)) nil (25546 9443 916902 425000) 0 nil])
+([nil current ((1229 . 1232)) nil (25546 9443 916852 980000) 0 nil])
 nil

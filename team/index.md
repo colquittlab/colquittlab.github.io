@@ -59,7 +59,7 @@ We are located on the stunning UC Santa Cruz campus, embedded in a redwood fores
 ## Join
 
 {% include figure.html
-image="images/lab_2301_1800.png"
+image="images/lab_2301_8in.png"
 %}
 
 #### Postdoctoral Researcher
