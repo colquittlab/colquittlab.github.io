@@ -9,6 +9,10 @@ nav:
 
 {% include section.html %}
 
+{% include figure.html
+image=images/lab_2301_1800.png
+%}
+
 {%
 include list.html
 data="members"
