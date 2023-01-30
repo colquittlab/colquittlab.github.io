@@ -2,8 +2,6 @@
 title: Home
 ---
 
-{% raw %}{% seo %}{% endraw %}
-
 # Development and evolution of complex motor skills
 
 {% include section.html %}
