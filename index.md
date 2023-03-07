@@ -10,17 +10,25 @@ title: Home
   size=full
 %}
 
-# 
-# 
-#
-# 
-# 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 # Development and evolution of complex motor skills
-#  
-# 
-# 
-#
-# 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 {% include section.html %}
 
 {% include gallery.html
