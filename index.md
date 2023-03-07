@@ -2,6 +2,14 @@
 title: Home
 ---
 
+
+{%
+  include section.html
+  background="images/banner_image_1280.png"
+  dark=true
+  size=full
+%}
+
 # Development and evolution of complex motor skills
 
 {% include section.html %}
