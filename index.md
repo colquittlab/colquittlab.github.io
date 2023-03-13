@@ -59,6 +59,7 @@ Our lab combines advanced molecular techniques, bioinformatics, imaging, and beh
   flip=true
 %}
 {:.center}
+
 {% endcapture %}
 
 {%
@@ -82,6 +83,7 @@ The Colquitt Lab opened in August of 2022, and we’re excited to build a team o
   flip=true
 %}
 {:.center}
+
 {% endcapture %}
 
 {%
