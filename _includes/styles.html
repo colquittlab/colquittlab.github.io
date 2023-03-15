@@ -7,7 +7,6 @@
 
 
 <!-- include all sass in styles folder -->
-{% comment %}
 {% assign styles = site.pages
   | where_exp: "file", "file.url contains '/_styles'"
 %}
@@ -19,12 +18,13 @@
     />
   {% endunless %}
 {% endfor %}
-{% endcomment %}
-    <!-- include all css in styles folder -->
 
+<!-- include all css in styles folder -->
 {% assign styles = site.static_files
   | where_exp: "file",
-    "file.path contains '/_styles' and file.path contains '.css'"
+    "file.path contains '/_styles'"
+  | where_exp: "file",
+    "file.path contains '.css'"
     %}
 
 
