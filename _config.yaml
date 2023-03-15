@@ -1,9 +1,10 @@
 # site properties and page defaults
-title: Colquitt Lab
+title: Colquitt Lab at UCSC
 description: Colquitt Lab at UC Santa Cruz
-logo: images/bird_white.svg
+logo-text: true
 header: images/black.png
 footer: images/black.png
+header-dark: true
 baseurl: ""
 
 # site social media and other links

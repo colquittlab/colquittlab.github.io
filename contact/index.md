@@ -6,14 +6,15 @@ nav:
 ---
 
 # <i class="fas fa-envelope"></i>Contact
+{:.center}
 
 Our lab is part of the [Department of Molecular, Cell, and Developmental Biology](https://mcd.ucsc.edu/) at [UC Santa Cruz](https://www.ucsc.edu).
 {:.center}
 
-{% include section.html background="images/2-28-20-UCSC-Arial-SLM.jpg" full=true %}
+{% include section.html background="images/2-28-20-UCSC-Arial-SLM.jpg" full=true dark=false %}
 
 {%
-  include link.html
+  include button.html
   type="email"
   icon=""
   text="colquitt@ucsc.edu"
@@ -21,8 +22,10 @@ Our lab is part of the [Department of Molecular, Cell, and Developmental Biology
   link="colquitt@ucsc.edu"
   style="button"
 %}
+{:.center}
+
 {%
-  include link.html
+  include button.html
   type="phone"
   icon=""
   text="(831) 502-8427"
@@ -30,8 +33,11 @@ Our lab is part of the [Department of Molecular, Cell, and Developmental Biology
   link="+1-831-502-8427"
   style="button"
  %}
+{:.center}
+
+
 {%
-  include link.html
+  include button.html
   type="address"
   icon=""
   text="Google Maps"
@@ -44,6 +50,7 @@ Our lab is part of the [Department of Molecular, Cell, and Developmental Biology
 {% include section.html %}
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
+{:.center}
 
 1156 High St.
 Sinsheimer Labs 225

@@ -11,14 +11,9 @@ title: Home
 %}
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 # Development and evolution of complex motor skills
+{:.center}
+
 <br>
 <br>
 <br>
@@ -31,10 +26,34 @@ title: Home
 
 {% include section.html %}
 
-{% include gallery.html
-   image1="images/song-system.png"
-   image2="images/song_learning_schematic.png"
-   image3="images/science_all_cells_umap.png"
+{% capture col1 %}
+   {%
+    include figure.html
+    image="images/song-system.png"
+   %}
+{% endcapture %}
+
+{% capture col2 %}
+   {%
+    include figure.html
+    image="images/song_learning_schematic.png"
+   %}
+{% endcapture %}
+
+{% capture col3 %}
+   {%
+    include figure.html
+    image="images/science_all_cells_umap.png"
+   %}
+{% endcapture %}
+
+
+
+{%
+  include cols.html
+  col1=col1
+  col2=col2
+  col3=col3
 %}
 
 {% include section.html %}

@@ -19,15 +19,16 @@
   --background: #181818;
   --background-alt: #1c1c1c;
   --light-gray: #404040;
-  --gray: #808080;
+  //--gray: #808080;
+  --gray: #ffffff;
   --overlay: #ffffff10;
 }
 
 :root {
   // font families
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
+  --title: "Lato", sans-serif;
+  --heading: "Lato", sans-serif;
+  --body: "Lato", sans-serif;
   --code: "Roboto Mono", monospace;
 
   // font sizes
