@@ -24,9 +24,8 @@
   | where_exp: "file",
     "file.path contains '/_styles'"
   | where_exp: "file",
-    "file.path contains '.css'"
-    %}
-
+    "file.path contains '.scss'"
+%}
 
 {% for style in styles %}
   <link href="{{ style.path | relative_url }}" rel="stylesheet" />
