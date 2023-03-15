@@ -6,10 +6,9 @@ nav:
 ---
 
 # <i class="fas fa-users"></i>Team
+{:.center}
 
 {% include section.html %}
-
-
 
 {%
 include list.html
@@ -56,23 +55,24 @@ We are located on the stunning UC Santa Cruz campus, embedded in a redwood fores
 
 {% include section.html %}
 
-## Join
+# Join
+{:.center}
 
 {% include figure.html
 image="images/lab_2301_1800.png"
 %}
 
-#### Postdoctoral Researcher
+### Postdoctoral Researcher
 
 We are looking for postdocs interested in bringing fresh ideas and skill sets to questions in developmental and evolutionary neurobiology. We are looking for candidates with a strong background in molecular biology (including the generation and/or analysis of diverse sequencing approaches, gene editing), developmental biology (including embryo manipulation), and/or design and analysis of behavioral experiments.
 
 Please email Brad a CV and a cover letter describing your research background, current interests, and how you think you could contribute to ongoing work or new directions in the lab.
 
-#### Graduate students
+### Graduate students
 
 The lab is excited to welcome rotation students through the [Graduate Training Program in Biomedical Sciences and Engineering](https://pbse.ucsc.edu/) at UCSC. Please get in touch for more information.
 
-#### Undergraduate students
+### Undergraduate students
 
 Experiencing the scientific process directly by working in an academic research lab is an important part of undergraduate education at UCSC, and we're excited to have undergrads join the lab.
 

@@ -6,8 +6,9 @@ nav:
 ---
 
 # Research
+{:.center}
 
-{% include section.html %}
+{% include section.html full=true %}
 
 {% capture text %}
 Complex, learned motor skills involve the coordination of activity across multiple neural types and brain regions. How do such interconnected neural circuits co-develop? And what can these developmental mechanisms tell us about the evolution of neural circuits and the behaviors they support?
@@ -18,7 +19,7 @@ Birdsong is controlled by a dedicated set of interconnected brain regions that i
 
 {%
   include feature.html
-  image="images/diversification_v1.svg"
+  image="images/diversification_v1.png"
   title="Neural circuit diversification"
   text=text
 %}
@@ -31,7 +32,7 @@ Vocal learning in humans and many songbirds features a sensitive (critical) peri
 
 {%
   include feature.html
-  image="images/tutoring_v5.svg"
+  image="images/tutoring_v5_square.png"
   title="Influence of experience on sensorimotor circuit development"
   text=text
   flip=true
@@ -48,7 +49,7 @@ The lab studies the similarities and differences in the cellular composition, or
 
 {%
   include feature.html
-  image="images/motor_evolution.png"
+  image="images/motor_evolution_square.png"
   title="Evolution of motor control"
   text=text
 %}
