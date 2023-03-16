@@ -22,9 +22,7 @@
 <!-- include all css in styles folder -->
 {% assign styles = site.static_files
   | where_exp: "file",
-    "file.path contains '/_styles'"
-  | where_exp: "file",
-    "file.path contains '.scss'"
+    "file.path contains '/_styles' and file.path contains '.css'"
 %}
 
 {% for style in styles %}
