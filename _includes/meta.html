@@ -8,6 +8,7 @@
 {% endif %}
 
 {% assign fulltitle = "" | split: "," %}
+{% if title %}
   {% assign fulltitle = fulltitle | push: title %}
 {% endif %}
 {% if site.title %}
