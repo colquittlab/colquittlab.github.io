@@ -1,87 +1,59 @@
-# site properties and page defaults
-title: Colquitt Lab at UCSC
-description: Colquitt Lab at UC Santa Cruz
+title: colquittlab
+description: An engaging 1-3 sentence description of your lab.
 logo-text: true
 header: images/black.png
 footer: images/black.png
 header-dark: true
 baseurl: ""
-
-# site social media and other links
 links:
   email: colquitt@ucsc.edu
   google-scholar: wkjT3poAAAAJ
   github: colquittlab
   twitter: bradleycolquitt
-  #instagram: ""
-  #youtube: YourLabChannel
-
-### advanced settings
-
-# automatic citations
 auto-cite:
   plugins:
     - name: sources
       input:
         - ../_data/sources.yaml
   output: ../_data/citations.yaml
-
-# default front matter parameters for markdown files
 defaults:
-  # all markdown files
   - scope:
       path: ""
     values:
       layout: default
-  # markdown files in /_members
   - scope:
-      type: "members"
+      type: members
     values:
       layout: member
-  # markdown files in /_posts
   - scope:
-      type: "posts"
+      type: posts
     values:
       layout: post
-
-
-# analytics
 google_analytics: G-FXFJBRMJ2R
-
-# collections
 collections:
-  # generate page for each member
   members:
     output: true
-  # generate page for each post
   posts:
     output: true
-
-# jekyll plugins
 plugins:
   - jekyll-spaceship
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-last-modified-at
-
-# code block syntax highlighting
 highlighter: rouge
-
-# jekyll theme
 theme: null
-
-# sass settings
 sass:
   sass_dir: _styles
-
-# force jekyll to include certain files/folders
 include:
   - _styles
   - _scripts
-
-# force jekyll to exclude certain files/folders
 exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
+email: contact@colquittlab.com
+github: colquittlab
+twitter: colquittlab
+instagram: colquittlab
+youtube: colquittlab
