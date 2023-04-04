@@ -9,6 +9,9 @@
    id="svg4907"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="bird_white_share.svg"
+   inkscape:export-filename="bird_white_share.jpg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,7 +28,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.53228931"
-     inkscape:cx="167.20231"
+     inkscape:cx="781.52988"
      inkscape:cy="73.268426"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
@@ -91,7 +94,7 @@
      transform="translate(-56.81355,-81.904004)">
     <g
        style="fill:#ffffff;stroke:none;stroke-width:0.666564;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(9.8742829,0,0,9.8742199,-1614.6221,-1856.5356)"
+       transform="matrix(9.8742829,0,0,9.8742199,-1608.2717,-1852.8312)"
        id="g9488"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600">
@@ -195,27 +198,27 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:25.2562px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.78842"
-       x="226.0508"
-       y="118.93515"
+       x="232.40071"
+       y="122.63931"
        id="text2319"><tspan
          sodipodi:role="line"
          id="tspan2317"
-         x="226.0508"
-         y="118.93515"
+         x="232.40071"
+         y="122.63931"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.2562px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3.78842">Colquitt Lab</tspan><tspan
          sodipodi:role="line"
-         x="226.0508"
-         y="151.64786"
+         x="232.40071"
+         y="155.35201"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.2562px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3.78842"
          id="tspan2321"></tspan><tspan
          sodipodi:role="line"
-         x="226.0508"
-         y="184.36055"
+         x="232.40071"
+         y="188.06471"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.2562px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:3.78842"
          id="tspan5435">UCSC</tspan></text>
     <path
-       style="fill:none;stroke:#ffffff;stroke-width:2.64583333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
-       d="m 175.47216,142.71143 c 103.07686,0 103.07686,0 103.07686,0"
+       style="fill:none;stroke:#ffffff;stroke-width:2.64583;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 181.8222,146.41562 c 103.07686,0 103.07686,0 103.07686,0"
        id="path5491" />
   </g>
 </svg>
