@@ -83,7 +83,7 @@ Our lab combines advanced molecular techniques, bioinformatics, imaging, and beh
 
 {%
   include feature.html
-  image="images/banner_image_1280.png"
+  image="images/banner_image_96dpi.png"
   link="research"
   title="Our Research"
   text=text
