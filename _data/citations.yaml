@@ -1,73 +1,6 @@
-# DO NOT EDIT, GENERATED AUTOMATICALLY
+# DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
+# See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1101/2022.12.13.520194
   title: Neural circuit-wide analysis of gene expression during deafening-induced
     destabilization of birdsong
@@ -83,8 +16,7 @@
   extra-links:
   - type: preprint
     link: https://www.biorxiv.org/content/10.1101/2022.12.13.520194v1
-  plugin: sources.py
-  file: sources.yaml
+  _cache: 7e94fe88f58d7cb5976ef0cd14944ef2a189400326c69a55cb86c3c35851af46
 - id: doi:10.1159/000525019
   title: Organizational Conservation and Flexibility in the Evolution of Birdsong
     and Avian Motor Control
@@ -94,8 +26,7 @@
   date: '2022-01-01'
   link: https://doi.org/grm8wj
   image: images/motor_evolution_short.svg
-  plugin: sources.py
-  file: sources.yaml
+  _cache: 0dc36bc34c1a3d4aeaefaa5b35cfd918a119c885ce80eb076ffd3c5872103435
 - id: doi:10.1126/science.abd9704
   title: Cellular transcriptomics reveals evolutionary identities of songbird vocal
     circuits
@@ -109,8 +40,7 @@
   date: '2021-02-12'
   link: https://doi.org/grndt4
   image: images/science_summary.svg
-  plugin: sources.py
-  file: sources.yaml
+  _cache: c87f7ca0c3e726841cc19a917854084011c186e5ff55917554fc54c43910fdca
 - id: doi:10.1093/gigascience/giy008
   title: Draft genome assembly of the Bengalese finch, Lonchura striata domestica,
     a model for motor skill variability and learning
@@ -122,8 +52,7 @@
   date: '2018-02-15'
   link: https://doi.org/grndt5
   image: images/BF_pic.png
-  plugin: sources.py
-  file: sources.yaml
+  _cache: 05f575dd8688d3a955428a757d9e73dd1b5ea13286cc7040dd720503d65d0820
 - id: doi:10.1016/j.neuron.2014.07.013
   title: Dnmt3a Regulates Global Gene Expression in Olfactory Sensory Neurons and
     Enables Odorant-Induced Transcription
@@ -136,8 +65,7 @@
   date: '2014-08-01'
   link: https://doi.org/f6c799
   image: images/neuron_dhs.svg
-  plugin: sources.py
-  file: sources.yaml
+  _cache: 3baefd4a0454474fccccd58ea3895dbae4897040df4be941cedde6f38ee1b3ca
 - id: doi:10.1016/j.cell.2014.09.033
   title: Enhancer Interaction Networks as a Means for Singular Olfactory Receptor
     Expression
@@ -154,8 +82,7 @@
   publisher: Cell
   date: '2014-10-01'
   link: https://doi.org/f6pb7w
-  plugin: sources.py
-  file: sources.yaml
+  _cache: 3208b625a9d0e76c2c938568c3309ed3d61526b7032fc08b22ce1baa15101932
 - id: doi:10.1073/pnas.1302759110
   title: Alteration of genic 5-hydroxymethylcytosine patterning in olfactory neurons
     correlates with changes in gene expression and cell identity
@@ -167,8 +94,7 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2013-08-22'
   link: https://doi.org/f48zm5
-  plugin: sources.py
-  file: sources.yaml
+  _cache: d5731b10624b8fb09e3b01813568a0f70bd48300b32f0671ec82b366f4c474ef
 - id: doi:10.1016/j.cell.2011.03.040
   title: An Epigenetic Signature for Monoallelic Olfactory Receptor Expression
   authors:
@@ -188,5 +114,4 @@
   publisher: Cell
   date: '2011-05-01'
   link: https://doi.org/crnf2j
-  plugin: sources.py
-  file: sources.yaml
+  _cache: 3e81463c43c938a9f19edb6887a04cf82e05b0ce20f8e51904397d8a34c1fa84
