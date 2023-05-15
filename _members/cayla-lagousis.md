@@ -1,5 +1,6 @@
 ---
 name: Cayla Lagousis
+image: images/cayla-lagousis-linkedin.jpeg
 description: Graduate Student
 role: phd
 aliases:

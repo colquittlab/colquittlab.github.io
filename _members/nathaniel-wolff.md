@@ -1,5 +1,6 @@
 ---
 name: Nathaniel Wolff
+image: images/nathaniel-wolff-linkedin.jpeg
 description: Undergraduate Researcher
 role: undergrad
 aliases:
