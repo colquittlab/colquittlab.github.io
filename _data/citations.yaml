@@ -92,7 +92,8 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2013-08-22'
   link: https://doi.org/f48zm5
-  _cache: d5731b10624b8fb09e3b01813568a0f70bd48300b32f0671ec82b366f4c474ef
+  image: images/Colquitt_2014_PNAS_gene-profile.png
+  _cache: 8377d3f03f3ae46793c9e75400489049f06edc35ecae56440cb62cdc9b6af0ea
 - id: doi:10.1016/j.cell.2011.03.040
   title: An Epigenetic Signature for Monoallelic Olfactory Receptor Expression
   authors:
