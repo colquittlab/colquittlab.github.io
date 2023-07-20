@@ -2,7 +2,7 @@
 name: Michael Eso
 description: Undergraduate Researcher
 image: images/Eso-Michael.JPG
-role: undergrad
+role: alum
 aliases:
   - M. Eso
 links:

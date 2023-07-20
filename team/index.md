@@ -8,6 +8,12 @@ nav:
 # <i class="fas fa-users"></i>Team
 {:.center}
 
+{% include section.html background="images/2-28-20-UCSC-Arial-SLM.jpg" dark=true%}
+
+Our lab encompasses approaches and ideas from systems neuroscience, developmental biology, evolution, and genomics, and we're excited to build a diverse and collaborative team of researchers. We're actively recruiting at several levels and look forward to welcoming new members. Please contact Brad at colquitt@ucsc.edu for more information.
+
+We are located on the stunning UC Santa Cruz campus, embedded in a redwood forest on the northern end of the Monterey Bay, in the vibrant city of Santa Cruz.
+
 {% include section.html %}
 
 {%
@@ -47,11 +53,18 @@ filters="role: undergrad"
 
 {:.center}
 
-{% include section.html background="images/2-28-20-UCSC-Arial-SLM.jpg" dark=true%}
+{% include section.html %}
+# Alumni
+{:.center}
 
-Our lab encompasses approaches and ideas from systems neuroscience, developmental biology, evolution, and genomics, and we're excited to build a diverse and collaborative team of researchers. We're actively recruiting at several levels and look forward to welcoming new members. Please contact Brad at colquitt@ucsc.edu for more information.
+{%
+include list.html
+data="members"
+component="portrait"
+filters="role: alum"
+%}
 
-We are located on the stunning UC Santa Cruz campus, embedded in a redwood forest on the northern end of the Monterey Bay, in the vibrant city of Santa Cruz.
+
 
 {% include section.html %}
 
