@@ -2,7 +2,7 @@
 name: Nathaniel Wolff
 image: images/nathaniel-wolff-linkedin.jpeg
 description: Undergraduate Researcher
-role: undergrad
+role: alum
 aliases:
   - N. Wolff
 links:
