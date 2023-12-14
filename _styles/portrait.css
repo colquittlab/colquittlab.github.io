@@ -20,7 +20,7 @@
 }
 
 .portrait-image {
-  width: 150px;
+  width: 300px;
   aspect-ratio: 1/1;
   border-radius: 999px;
   object-fit: cover;
