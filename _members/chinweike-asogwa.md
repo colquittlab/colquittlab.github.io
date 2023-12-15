@@ -1,5 +1,5 @@
 ---
-name: Chinweike Asogwa
+name: Chinweike Asogwa, Ph.D.
 image: images/chinweike-pic.jpg
 description: Postdoctoral Researcher
 role: postdoc
