@@ -1,7 +1,7 @@
 ---
 name: Cayla Lagousis
 image: images/cayla-pic.png
-description: Graduate Student
+description: Graduate Student, MCDB
 role: phd
 aliases:
   - C. Lagousis

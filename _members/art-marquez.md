@@ -1,6 +1,6 @@
 ---
 name: Art Marquez
-description: Graduate Student
+description: Graduate Student, MCDB
 role: phd
 image: images/art-marquez-head.jpg
 aliases:

@@ -1,7 +1,7 @@
 ---
 name: Mathew Sarti
-description: Undergraduate Researcher
-role: undergrad
+description: Jr Specialist
+role: tech
 image: images/Sarti-Mathew.JPG
 aliases:
   - M. Sarti

@@ -1,7 +1,7 @@
 ---
 name: Frank Rand
-description: Junior Specialist
-role: tech
+description: Graduate Student, MCDB
+role: phd
 aliases:
   - F. Rand
 links:
