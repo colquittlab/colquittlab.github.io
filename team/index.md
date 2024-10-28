@@ -97,3 +97,6 @@ The lab is excited to welcome rotation students through the [Graduate Training P
 
 Experiencing the scientific process directly by working in an academic research lab is an important part of undergraduate education at UCSC, and we're excited to have undergrads join the lab.
 
+{% include figure.html
+image="images/generative_fill.png"
+%}

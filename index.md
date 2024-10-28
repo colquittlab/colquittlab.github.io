@@ -70,6 +70,7 @@ Our lab combines advanced molecular techniques, bioinformatics, imaging, and beh
 - the gene regulatory networks that build birdsong neural circuitry during development
 - how these networks intersect with experience during birdsong learning
 - how modifications to these networks contributed to the evolution of birdsong and other complex learned behaviors.
+
 {%
   include link.html
   link="research"
